@@ -1,11 +1,11 @@
 using PopGen
-cd("/mnt/Win10/Users/pdime/Documents/Omega/USM PhD/Projects/Active/Blackfin Tuna/Analyses/Isolation by Distance/")
+cd("~/Blackfin Tuna/Analyses/Isolation by Distance/")
 infile = "../BFT_nohaplo_neutral.gen"
 infile_haplo ="BFT_new_maxmiss80.gen"
 
-infile_win = "C:/Users/pdime/Desktop/BFT_maxmiss80.txt"
+#infile_win = "C:/Users/pdime/Desktop/BFT_maxmiss80.txt"
 bft = genepop(infile) # numpops removed in updated version of PopGen
-bft = genepop(infile_haplo)
+#bft = genepop(infile_haplo)
 ## BRZ KEY LA MRT PNS PR SCA TX VZ
 popcounts = population(bft).count
 current_popnames = unique(bft.samples.population)
