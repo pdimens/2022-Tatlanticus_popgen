@@ -6,7 +6,9 @@ This repository includes any relevant custom scripts, tools, or files mentioned 
 
 ## Manifest
 ### Assembly
+
 The QuAST report of the draft assembly and the genome size estimation using Jellyfish kmer methods
+
 -
 -
 -
