@@ -1,0 +1,15 @@
+Genepop
+GenepopInputFile=../data_maf_01/bft_maf01_kinless_neutral_IDB.gen
+MenuOptions=6:5
+EstimationPloidy=Diploid
+IsolationStatistic=a
+Geometry=2D
+CIcoverage=0.95
+testPoint=0
+MinimalDistance=0.001
+MaximalDistance=1e+09
+MantelPermutations=10000
+MantelRankTest=FALSE
+MantelSeed=67144630
+Mode=Batch
+

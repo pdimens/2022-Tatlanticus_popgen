@@ -1,0 +1,28 @@
+## By individual
+
+Monte-Carlo test
+Call: mantel.randtest(m1 = Dgen, m2 = Dgeo, nrepet = 10000)
+
+Observation: -0.04499568 
+
+Based on 10000 replicates
+Simulated p-value: 0.9138086 
+Alternative hypothesis: greater 
+
+     Std.Obs  Expectation     Variance 
+-1.380988235 -0.000485391  0.001038822 
+
+
+## By pop
+
+Monte-Carlo test
+Call: mantel.randtest(m1 = Dgen_pop, m2 = Dgeo_pop, nrepet = 10000)
+
+Observation: 0.2646406 
+
+Based on 10000 replicates
+Simulated p-value: 0.2028797 
+Alternative hypothesis: greater 
+
+    Std.Obs Expectation    Variance 
+0.907792451 0.002698154 0.083260399 
