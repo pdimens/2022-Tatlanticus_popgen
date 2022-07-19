@@ -1,0 +1,28 @@
+PLINK v1.90p 64-bit (6 Jun 2021)
+Options in effect:
+  --allow-extra-chr
+  --double-id
+  --out bft.filtered.thinned
+  --recode
+  --vcf BFT.thin.recode.vcf
+
+Hostname: meeseeks
+Working directory: /home/pdimens/blackfin/popgen/data
+Start time: Mon Jul 18 14:27:07 2022
+
+Random number seed: 1658168827
+257862 MB RAM detected; reserving 128931 MB for main workspace.
+--vcf: bft.filtered.thinned-temporary.bed + bft.filtered.thinned-temporary.bim
++ bft.filtered.thinned-temporary.fam written.
+1470 variants loaded from .bim file.
+334 people (0 males, 0 females, 334 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to bft.filtered.thinned.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 334 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.959512.
+1470 variants and 334 people pass filters and QC.
+Note: No phenotypes present.
+--recode ped to bft.filtered.thinned.ped + bft.filtered.thinned.map ... done.
+
+End time: Mon Jul 18 14:27:07 2022
