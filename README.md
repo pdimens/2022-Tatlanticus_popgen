@@ -1,4 +1,4 @@
-# Tatlanticus_popgen
+# Weak range-wide population structure of the Blackfin tuna (Thunnus atlanticus) revealed with genomic markers
 Repository associated with the publication Population structure and demography of blackfin tuna, Thunnus atlanticus
 
 ## What's included
