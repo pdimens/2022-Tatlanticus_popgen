@@ -2,13 +2,13 @@
 Repository associated with the publication Population structure and demography of blackfin tuna, Thunnus atlanticus
 
 ## What's included
-This repository includes any relevant custom scripts, tools, or files mentioned in the manuscript "Population structure and demography of blackfin tuna, Thunnus atlanticus".
-
-## Manifest
-### Assembly
-
-The QuAST report of the draft assembly and the genome size estimation using Jellyfish kmer methods
-
--
--
--
+- `amova`: Analysis of molecular variance
+- `dapc`: Discriminant Analysis of Principal Components
+- `faststructure`: fastSTRUCTURE analysis
+- `fineradstructure`: fineRADstructure analysis
+- `fst`: Pairwise (Hudson 1992) FST
+- `inputfiles`: All the input files necessary to run any of the notebooks/analyses
+- `isolationbydistance`: Constructing the least-cost paths for isolation-by-distance tests
+- `kinship`: Kinship analysis with KING-robust and PCRelate
+- `outlieranalysis`: Detecting putative outlier loci with BayPass, Bayescan, and outFLANK
+- `pca`: Principal Component Analysis, Principal Coordinate Analysis, and Spatial Principal Component Analysis
