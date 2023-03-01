@@ -1,5 +1,5 @@
 # Tatlanticus_popgen
-Repository associated with the publication Population structure and demography of blackfin tuna, Thunnus atlanticus
+Repository associated with the publication: Weak range-wide population structure in the blackfin tuna (Thunnus atlanticus) revealed by analysis of genome-wide SNPs found [here](https://doi.org/10.1093/icesjms/fsad012)
 
 ## What's included
 - `amova`: Analysis of molecular variance
